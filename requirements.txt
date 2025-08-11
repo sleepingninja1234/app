@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic>=2
+langchain
+langchain-google-genai
+motor
